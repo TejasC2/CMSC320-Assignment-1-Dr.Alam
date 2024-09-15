@@ -9,3 +9,7 @@ Answer: Could be used in the healthcare field, in terms of analyzing patient dat
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging doesn't affect history and rebasing rewrites commit history to create linear progression for the commits. Rebasing makes the history cleaner and easier to follow.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I would like to get more familiar with basic data science models.
