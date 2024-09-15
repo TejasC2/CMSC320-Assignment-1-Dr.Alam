@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Could be used in the healthcare field, in terms of analyzing patient data to predict outcomes and certain risks. 
